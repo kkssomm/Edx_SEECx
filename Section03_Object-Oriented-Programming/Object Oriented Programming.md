@@ -102,7 +102,7 @@ Java는 클래스를 사용함으로써 캡슐화를 지원함. 클래스는 구
 - Sub-class는 (non-private한) Super-class의 속성과 메소드에 접근 가능
 - 만약 Sub-class가 메소드를 정의하고 있지 않다면, 컴파일러는 자동으로 Super-class의 Hierarchy를 검색함
 
-![1568483066553](./img/03_04.png)
+![1568483066553](../img/03_04.png)
 
 
 
