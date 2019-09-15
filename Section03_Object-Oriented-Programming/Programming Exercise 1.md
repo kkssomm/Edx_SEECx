@@ -40,7 +40,7 @@
 
    - 간단한 구문을 작성하는 과제이므로 온라인 코드 에디터를 사용하기로 했다. Exercise를 위한 기본적인 파일들이 이미 생성되어 있었다.
 
-   ![1568486628319](\img\ex_03_01.png)
+   ![1568486628319](./img/ex_03_01.png)
 
 5. 테스트에 통과할 때까지 요구하는 작업을 수행한 코드를 Commit, Push한다. 마지막 제출만 카운트 되므로 여러 번 제출이 가능하다.
 
@@ -62,7 +62,7 @@ In the requirements of the University App we have identified FR2, which shows th
    2. **lecturer**: Object of type Lecturer
    3. **dates**: The course dates as a list of Date objects (List<Date>)
    4. **attendees**: A list of Student objects (List<Student>)
-      ![img](..\img\ex_03_02.png)
+      ![img](https://studio.edge.edx.org/asset-v1:TUM+IN1504+2016+type@asset+block@OOP1Exercise_1.png)
 
 3. String 타입의 **title**을 인자로 받는 **Course**생성자를 추가한다. 이 때 **Course** 객체의title 속성을 초기화 한다. 
 
@@ -117,7 +117,7 @@ In the requirements of the University App we have identified FR2, which shows th
 
 - submit
 
-  ![1568494926395](C:\Users\user\AppData\Roaming\Typora\typora-user-images\1568494926395.png)
+  ![1568494926395](.\img\ex_03_02.png)
 
   - Submit 버튼을 누르면 어떤 항목이 채점되었는지 파악할 수 있다. Part1만 작성해 제출했을 때 16항목 중 10개만 맞게 채점되었다.
 
@@ -213,7 +213,7 @@ We want the University App to support *Online Courses* and *Lecture Courses*. Th
 
 - Submit
 
-![1568528772643](..\img\ex_03_03.png)
+![1568528772643](./img/ex_03_03.png)
 
 
 
